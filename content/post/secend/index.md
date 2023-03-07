@@ -1,6 +1,6 @@
 ---
 title: secend
-subtitle: 這是第二篇測試用的文章
+subtitle: 這是第二篇測試用的文章..
 date: 2023-03-07T08:20:58.895Z
 draft: false
 featured: false
