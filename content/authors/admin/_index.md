@@ -9,7 +9,7 @@ social:
     icon_pack: fab
     link: https://www.instagram.com/tony19760104/
 organizations: []
-superuser: true
+superuser: false
 status:
   icon: ☕️
 ---
