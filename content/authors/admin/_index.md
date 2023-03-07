@@ -1,7 +1,7 @@
 ---
 title: Tony (東東)
 role: IT工程師
-avatar_filename: 17077406_1931797940382633_5714616573314990080_a.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
