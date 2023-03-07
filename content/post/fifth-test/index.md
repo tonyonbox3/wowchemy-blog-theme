@@ -10,7 +10,7 @@ categories:
   - 測試
 image:
   filename: monkey.webp
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
   caption: abc
 ---
