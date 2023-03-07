@@ -5,9 +5,6 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/tony19760104/
