@@ -4,7 +4,9 @@ date: 2019-07-12
 math: true
 image:
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: "Image credit: [**John Moeses
+    Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
+  filename: monkey.jpg
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
