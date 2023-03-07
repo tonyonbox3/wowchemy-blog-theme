@@ -8,7 +8,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-  caption: https://www.instagram.com/p/CTrIpeHhrQy/
+  caption: https://upload.wikimedia.org/wikipedia/commons/3/35/Eight_regions_of_Japan_%28zh-hant%29.svg
 ---
 s﻿ertyuiopoiuytrdsxcvbnjkuytresdcvbnjkuytrewasxcvbnjkiuytrdcvb nmjhytrdxc njytrdc bnh
 
