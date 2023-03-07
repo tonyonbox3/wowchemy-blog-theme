@@ -13,4 +13,4 @@ s﻿ertyuiopoiuytrdsxcvbnjkuytresdcvbnjkuytrewasxcvbnjkiuytrdcvb nmjhytrdxc njyt
 
 ![FF Knight - Garena officially revealed Free Fire's new... | Facebook](monkey.jpg)
 
-![]()
+![](spec.png)
