@@ -11,9 +11,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/tony19760104/
-organizations:
-  - name: 台灣固網
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
