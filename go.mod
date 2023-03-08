@@ -1,4 +1,3 @@
-
 module github.com/tonyonbox3/hugo-blog-theme
 
 go 1.15
