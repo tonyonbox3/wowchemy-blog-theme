@@ -43,6 +43,7 @@ module:
     - path: github.com/tonyonbox3/wowchemy-themes-source/modules/wowchemy-plugin-netlify-cms
     - path: github.com/tonyonbox3/wowchemy-themes-source/modules/wowchemy-plugin-netlify
     - path: github.com/tonyonbox3/wowchemy-themes-source/modules/wowchemy/v5
+    
 
 ############################
 ## ADVANCED
