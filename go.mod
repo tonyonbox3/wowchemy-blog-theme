@@ -1,4 +1,4 @@
-module github.com/tonyonbox3/wowchemy-themes-source
+module github.com/tonyonbox3/wowchemy-blog-theme
 
 go 1.15
 
