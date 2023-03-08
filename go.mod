@@ -7,3 +7,4 @@ require (
 	github.com/tonyonbox3/wowchemy-themes-source/modules/wowchemy-plugin-netlify-cms v1.0.0 // indirect
 	github.com/tonyonbox3/wowchemy-themes-source/modules/wowchemy/v5 v5.6.0 // indirect
 )
+
