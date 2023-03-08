@@ -65,8 +65,8 @@ features:
   privacy_pack:
     enable: false
   repository:
-    # url: 'https://github.com/<username>/<repository>'
-    url: 'https://github.com/tonyonbox3/wowchemy-themes-source'
+    url: 'https://github.com/<username>/<repository>'
+    
     content_dir: content
     branch: main
   avatar:
