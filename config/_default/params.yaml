@@ -85,7 +85,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: tonyonbox3
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
