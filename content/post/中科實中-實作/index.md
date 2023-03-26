@@ -1,6 +1,7 @@
 ---
 title: 中科實中 實作
 date: 2023-03-26T02:13:31.828Z
+summary: "![](monkey.webp)"
 draft: false
 featured: false
 image:
